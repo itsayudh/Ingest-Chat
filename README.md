@@ -88,10 +88,5 @@ Send a query + session ID → get AI response with context.
 Integrated within chat – detects interview booking requests.
 
 Project Structure
-.
-├── ingestion.py       # Handles document ingestion & embeddings
-├── rag.py             # RAG pipeline & booking intent detection
-├── main.py            # FastAPI app entrypoint
-├── requirements.txt   # Dependencies
-├── .env.example       # Example env vars
-└── README.md          # Project documentation
+<img width="804" height="269" alt="image" src="https://github.com/user-attachments/assets/9ac13bac-b07d-4665-87c2-e310f95055b6" />
+
