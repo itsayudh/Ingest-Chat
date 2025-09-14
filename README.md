@@ -20,16 +20,11 @@ Supports natural language-based interview booking, extracting key information li
 Stores booking information from the conversation.
 
 File Structure
-.
-├── .env                  # Environment variables (API keys, etc.)
-├── .gitignore            # Tells Git to ignore sensitive files
-├── main.py               # Main FastAPI application and API endpoints
-├── ingestion.py          # Logic for document processing and ingestion
-├── rag.py                # Logic for conversational RAG and chat memory
-├── requirements.txt      # Project dependencies
-└── README.md             # This file
+<img width="816" height="273" alt="image" src="https://github.com/user-attachments/assets/4a10ed59-fc7d-4dce-8c66-2cfd2e2bb30a" />
+
 
 Getting Started
+
 Prerequisites
 Python 3.9+
 
@@ -40,8 +35,8 @@ A Google API Key
 Step 1: Clone the Repository
 Clone this repository to your local machine using Git.
 
-git clone [https://github.com/your-username/Internship-RAG-App.git](https://github.com/your-username/Internship-RAG-App.git)
-cd Internship-RAG-App
+git clone [https://github.com/your-username/Internship-RAG-App.git](https://github.com/itsayudh/Ingest-Chat.git)
+cd Ingest-Chat.git
 
 Step 2: Set up Environment Variables
 Create a file named .env in the root directory of your project and add your Google API key. Do not commit this file to Git.
