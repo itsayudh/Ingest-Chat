@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+pypdf
+langchain-text-splitters
+qdrant-client
+sentence-transformers
+redis
+google-generativeai

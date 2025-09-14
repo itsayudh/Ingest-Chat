@@ -1,0 +1,13 @@
+Environment variables file
+.env
+
+PyCharm-specific files
+.idea/
+
+Python cache and build files
+pycache/
+*.pyc
+
+Virtual environment directory
+venv/
+.venv/
